@@ -62,7 +62,7 @@ public class User {
         this.password = password;
     }
 
-    public List<Object> getCourseList() {
+    public List<Course> getCourseList() {
         return courseList;
     }
 
