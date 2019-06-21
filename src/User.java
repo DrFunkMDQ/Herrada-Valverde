@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class User {
+public abstract class User {
     //ATTRIBUTES
     private int id;
     private static int contId = 1;
